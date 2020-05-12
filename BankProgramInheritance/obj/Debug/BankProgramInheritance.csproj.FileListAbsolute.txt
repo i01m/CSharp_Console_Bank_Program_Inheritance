@@ -1,0 +1,13 @@
+H:\project\VisualStudio\BankProgramInheritance\BankProgramInheritance\bin\Debug\BankProgramInheritance.exe.config
+H:\project\VisualStudio\BankProgramInheritance\BankProgramInheritance\obj\Debug\BankProgramInheritance.csprojResolveAssemblyReference.cache
+H:\project\VisualStudio\BankProgramInheritance\BankProgramInheritance\bin\Debug\BankProgramInheritance.exe
+H:\project\VisualStudio\BankProgramInheritance\BankProgramInheritance\bin\Debug\BankProgramInheritance.pdb
+H:\project\VisualStudio\BankProgramInheritance\BankProgramInheritance\obj\Debug\BankProgramInheritance.exe
+H:\project\VisualStudio\BankProgramInheritance\BankProgramInheritance\obj\Debug\BankProgramInheritance.pdb
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankProgramInheritance\BankProgramInheritance\bin\Debug\BankProgramInheritance.exe.config
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankProgramInheritance\BankProgramInheritance\bin\Debug\BankProgramInheritance.exe
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankProgramInheritance\BankProgramInheritance\bin\Debug\BankProgramInheritance.pdb
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankProgramInheritance\BankProgramInheritance\obj\Debug\BankProgramInheritance.csprojAssemblyReference.cache
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankProgramInheritance\BankProgramInheritance\obj\Debug\BankProgramInheritance.csproj.CoreCompileInputs.cache
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankProgramInheritance\BankProgramInheritance\obj\Debug\BankProgramInheritance.exe
+C:\Project\DEVELOPMENT_VM\cSharpProjects\VisualStudio\BankProgramInheritance\BankProgramInheritance\obj\Debug\BankProgramInheritance.pdb
